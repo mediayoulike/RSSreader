@@ -94,7 +94,7 @@ NSString *strNewsTitle;
     }
     else
     {
-         url = [NSURL URLWithString:@"http://www.voanews.com/api/"];
+         url = [NSURL URLWithString:@"http://www.voachinese.com/api/epiqq"];
          strNewsTitle = @"综合新闻";
     }
     
